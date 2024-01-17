@@ -2,6 +2,25 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
 
+# OnePage
+node -v
+npm -v
+npm version
+npm list -g
+npm install -g typescript
+npm install -g @angular/cli
+ng version
+ng v
+ng new one-page
+cd one-page/
+ng serve
+ng serve --port 9999
+ng --help
+
+
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
