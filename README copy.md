@@ -29,35 +29,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Angular CLI Hazır Bileşenler
 > ng generate component onepage-header 
-
-> ng g component    onepage-header
-> ng g component    onepage-main
-> ng g component    onepage-footer
-
-> ng g service      onepage-service
-> ng g module       onepage-module
-> ng g pipe         onepage-pipeline
-> ng g directive    onepage-pipeline
-> ng g interface    onepage-pipeline
-> ng g enum    onepage-pipeline
-
-## Angular Configuration
-> npm config list -l
-> npm config delete ayarAdi
-> npm update modulAdi --save-dev
-> npm uninstall modulAdi --save-dev
-> npm get ayarAdi
-
-## VS Code Plugins
-> Angular Essentials (Version 16)
-> Angular Language Service
-> Angular 10 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout
-> Angular Schematics
+> ng g component onepage-header
 
 # Angular NPM Kurulumları
 - npm install bootstrapt
-- npm install font-awesome  angular-font-awesome
-
+- npm install font-awesome
 
 
 ## Angular Hakkında
