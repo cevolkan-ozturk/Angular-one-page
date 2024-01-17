@@ -59,6 +59,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - npm install font-awesome  angular-font-awesome
 - npm install jquery
 - npm install popper
+- npm install alertifyjs
 - npm i
 
 
