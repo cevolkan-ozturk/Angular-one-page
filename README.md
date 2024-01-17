@@ -57,7 +57,23 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Angular NPM Kurulumları
 - npm install bootstrapt
 - npm install font-awesome  angular-font-awesome
+- npm install jquery
+- npm install popper
+- npm i
 
+
+
+## Style CSS
+```sh
+- style.css ==> 
+
+/* You can add global styles to this file, and also import other style files */
+
+/* Bootstrap Ekle */
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+/* Font awesome */
+@import "font-awesome/css/font-awesome.min.css";
 
 
 ## Angular Hakkında
